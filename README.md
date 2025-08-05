@@ -8,27 +8,6 @@ This repository contains coding challenges, system design notes, and technical e
 
 ### 1. Coding Challenges
 
-Organized by topic:
-
-- **Arrays & Strings**
-
-  - `two_sum.py`
-  - `longest_substring.py`
-
-- **Graphs & Trees**
-
-  - `clone_graph.py`
-  - `lowest_common_ancestor.py`
-
-- **Dynamic Programming**
-
-  - `coin_change.py`
-  - `longest_increasing_subsequence.py`
-
-- **Concurrency / System Problems**
-  - `rate_limiter.py`
-  - `bounded_blocking_queue.py`
-
 Each problem includes:
 
 - Problem description (inline or in comments)
@@ -70,8 +49,7 @@ Each includes:
 Clone the repo and explore by topic:
 
 ```bash
-git clone https://github.com/yourusername/interview-prep.git
-cd interview-prep
+git clone https://github.com/jdt6/system-design-and-coding.git
 ```
 
 PRs welcome if you want to collaborate or add new questions!
